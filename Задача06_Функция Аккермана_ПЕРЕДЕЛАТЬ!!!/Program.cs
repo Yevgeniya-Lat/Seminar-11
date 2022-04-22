@@ -34,7 +34,7 @@ int Prompt(string massage)
     if (m == 3)  temp = n + 3; 
     return n = 2 ^ temp - 3;
 
-    return Akker(n, m);
+    //return Akker(n, m);
 }    
 
 /*  int A(int n, int m) // работает, но так же переполняется быстро
